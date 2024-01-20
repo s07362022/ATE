@@ -1,0 +1,2 @@
+cd KDE_ensemble_contrative_DG_shape_aware_1DS_4gpu_min
+python train.py
